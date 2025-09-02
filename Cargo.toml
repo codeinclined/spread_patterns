@@ -1,5 +1,12 @@
 [package]
 name = "spread_patterns"
+description = "Some macros to make it easier to do pattern matching over strings, arrays, etc."
+license = "MIT"
+repository = "https://github.com/codeinclined/spread_patterns"
+documentation = "https://github.com/codeinclined/spread_patterns/blob/main/README.md"
+readme = "README.md"
+keywords = ["pattern", "matching", "strings", "bytes", "unicode"]
+categories = ["development-tools", "encoding", "parsing", "rust-patterns"]
 version = "0.1.0"
 edition = "2024"
 
